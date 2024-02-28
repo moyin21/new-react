@@ -112,7 +112,7 @@ video{
     background-color: black;
 }
 .onev:hover{
-    border: 4px solid white;
+    border: 4px solid rgb(194, 180, 180);
     cursor: pointer;
 }
 
@@ -134,4 +134,5 @@ video{
     min-width: 400px;
     display: flex;
     margin-left: 80px;
+    
 }

@@ -1,0 +1,137 @@
+.overall-div{
+    display: flex;
+    align-items: center;
+}
+.ham{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+.youtube{
+    width: 100px;
+    height: 50px;
+    margin-left: 40px;
+}
+.options{
+    width: 30px;
+    height: 30px;
+    margin-left: 370px;
+    margin-right: 20px;
+}
+.search{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 5px;
+    background-color: rgb(27, 27, 27);
+}
+.mic{
+    width: 25px;
+    height: 25px;
+    background-color: rgb(27, 27, 27);
+    margin: 7px 0px 0px 8px;
+}
+#search{
+    width: 400px;
+    height: 40px;
+    padding-left: 30px;
+    border: 1px solid grey;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    margin-left: 250px;
+}
+.ser{
+    border: 1px solid grey;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: rgb(27, 27, 27);
+    height: 38.5px;
+    width: 70px;
+    align-items: center;
+
+}
+.mic-div{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(27, 27, 27);
+    margin-left: 30px;
+}
+.sign{
+    color: royalblue;
+    border-radius: 20px;
+    border: 1px solid royalblue;
+    width: 100px;
+    height: 40px;
+    align-items: center;
+}
+.home{
+    width: 30px;
+    height: 30px;
+    margin-top: 30px;
+}
+.home-div{
+    margin-left: 20px;
+    font-size: small;
+}
+.over{
+    overflow-x: scroll;
+    height: 60px;
+    display: flex;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.one{
+    min-width: 70px;
+    height: 30px;
+    background-color: rgb(45, 45, 45);
+    border-radius: 5px;
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+.one>b{
+    background-color: rgb(45, 45, 45);
+    border-top-left-radius: 5px;
+}
+.bar{
+    margin-top: -80px;
+   position: absolute;
+}
+video{
+    width: 400px;
+    height: 200px;
+    border-radius: 7px;
+}
+.onev{
+    width: 400px;
+    height: 300px;
+    border: 0px;
+    margin-left: 30px;
+    background-color: black;
+}
+.onev:hover{
+    border: 4px solid white;
+    cursor: pointer;
+}
+
+.pic{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.details{
+    display: flex;
+    align-items:center;
+    margin-top: 20px;
+    text-align: justify;
+}
+.vid{
+    overflow-x: auto;
+    height: 340px;
+    min-width: 400px;
+    display: flex;
+    margin-left: 80px;
+}
